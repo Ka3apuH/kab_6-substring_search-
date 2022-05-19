@@ -1,0 +1,53 @@
+# ninja log v5
+5235	5284	1652784963177151804	lib/libgtest_maind.a	ba7cc9ab40ad1a75
+1423	1610	1652785457625884376	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1423	1610	1652785457625884376	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+0	4753	1652784962661149791	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	6d4414ad8a6bce54
+4753	5235	1652784963053151313	lib/libgtestd.a	c853b523fdb9146f
+1423	1610	1652785457625884376	test/lab6_TEST	21506b77e479c861
+1	1423	1652785457437890364	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1	1075	1652784959001136133	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	76716a9ed3bf9d6
+1	1598	1652818131821055639	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1598	1788	1652818132013058338	test/lab6_TEST	21506b77e479c861
+1598	1788	1652818132013058338	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1598	1788	1652818132013058338	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+2	1404	1652821364083351399	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1404	1587	1652821364267354467	test/lab6_TEST	21506b77e479c861
+1404	1587	1652821364267354467	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1404	1587	1652821364267354467	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1	1433	1652822050248535910	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1434	1617	1652822050432535841	test/lab6_TEST	21506b77e479c861
+1434	1617	1652822050432535841	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1434	1617	1652822050432535841	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1	1389	1652822075464528161	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1389	1573	1652822075652528116	test/lab6_TEST	21506b77e479c861
+1389	1573	1652822075652528116	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1389	1573	1652822075652528116	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1	1386	1652822119144522980	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1386	1570	1652822119332522979	test/lab6_TEST	21506b77e479c861
+1386	1570	1652822119332522979	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1386	1570	1652822119332522979	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1	1433	1652822323384615558	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1433	1619	1652822323572615719	test/lab6_TEST	21506b77e479c861
+1433	1619	1652822323572615719	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1433	1619	1652822323572615719	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+2	1437	1652822345020634821	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1437	1622	1652822345208634995	test/lab6_TEST	21506b77e479c861
+1437	1622	1652822345208634995	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1437	1622	1652822345208634995	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+2	1428	1652822360684649720	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1428	1615	1652822360872649903	test/lab6_TEST	21506b77e479c861
+1428	1615	1652822360872649903	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1428	1615	1652822360872649903	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1	1383	1652828433492123397	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1383	1566	1652828433676123810	test/lab6_TEST	21506b77e479c861
+1383	1566	1652828433676123810	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1383	1566	1652828433676123810	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1	1506	1652828603264513354	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1506	1694	1652828603452513795	test/lab6_TEST	21506b77e479c861
+1506	1694	1652828603452513795	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1506	1694	1652828603452513795	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1	1393	1652828693276726339	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+1393	1578	1652828693460726778	test/lab6_TEST	21506b77e479c861
+1393	1578	1652828693460726778	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+1393	1578	1652828693460726778	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
