@@ -4,7 +4,7 @@
 main.cpp
 cmake-build-debug
 .git
-
+buld
 # Compiled Object files
 *.slo
 *.lo
