@@ -3,6 +3,7 @@
 .idea
 main.cpp
 cmake-build-debug
+.git
 
 # Compiled Object files
 *.slo
