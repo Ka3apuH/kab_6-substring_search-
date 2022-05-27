@@ -19,6 +19,4 @@ protected:
 
 // объекты тестового окружения, доступные в каждом тесте
 };
-
-std::stringbuf str_buf;
 #endif //LAB_6_SUBSTRSERCH_LAB_6_TEST_H

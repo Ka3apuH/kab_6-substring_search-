@@ -1,53 +1,33 @@
 # ninja log v5
-5235	5284	1652784963177151804	lib/libgtest_maind.a	ba7cc9ab40ad1a75
-1423	1610	1652785457625884376	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1423	1610	1652785457625884376	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-0	4753	1652784962661149791	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	6d4414ad8a6bce54
-4753	5235	1652784963053151313	lib/libgtestd.a	c853b523fdb9146f
-1423	1610	1652785457625884376	test/lab6_TEST	21506b77e479c861
-1	1423	1652785457437890364	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1	1075	1652784959001136133	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	76716a9ed3bf9d6
-1	1598	1652818131821055639	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1598	1788	1652818132013058338	test/lab6_TEST	21506b77e479c861
-1598	1788	1652818132013058338	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1598	1788	1652818132013058338	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-2	1404	1652821364083351399	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1404	1587	1652821364267354467	test/lab6_TEST	21506b77e479c861
-1404	1587	1652821364267354467	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1404	1587	1652821364267354467	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1	1433	1652822050248535910	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1434	1617	1652822050432535841	test/lab6_TEST	21506b77e479c861
-1434	1617	1652822050432535841	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1434	1617	1652822050432535841	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1	1389	1652822075464528161	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1389	1573	1652822075652528116	test/lab6_TEST	21506b77e479c861
-1389	1573	1652822075652528116	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1389	1573	1652822075652528116	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1	1386	1652822119144522980	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1386	1570	1652822119332522979	test/lab6_TEST	21506b77e479c861
-1386	1570	1652822119332522979	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1386	1570	1652822119332522979	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1	1433	1652822323384615558	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1433	1619	1652822323572615719	test/lab6_TEST	21506b77e479c861
-1433	1619	1652822323572615719	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1433	1619	1652822323572615719	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-2	1437	1652822345020634821	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1437	1622	1652822345208634995	test/lab6_TEST	21506b77e479c861
-1437	1622	1652822345208634995	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1437	1622	1652822345208634995	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-2	1428	1652822360684649720	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1428	1615	1652822360872649903	test/lab6_TEST	21506b77e479c861
-1428	1615	1652822360872649903	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1428	1615	1652822360872649903	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1	1383	1652828433492123397	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1383	1566	1652828433676123810	test/lab6_TEST	21506b77e479c861
-1383	1566	1652828433676123810	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1383	1566	1652828433676123810	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1	1506	1652828603264513354	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1506	1694	1652828603452513795	test/lab6_TEST	21506b77e479c861
-1506	1694	1652828603452513795	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1506	1694	1652828603452513795	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1	1393	1652828693276726339	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
-1393	1578	1652828693460726778	test/lab6_TEST	21506b77e479c861
-1393	1578	1652828693460726778	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
-1393	1578	1652828693460726778	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+4850	5430	1653616467757813895	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/counter.cc.o	d262c5fa6336f2d2
+6553	7333	1653616469661738130	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/string_util.cc.o	6f4b465933da2684
+7333	7809	1653616470133719338	_deps/googlebenchmark-build/src/CMakeFiles/benchmark_main.dir/benchmark_main.cc.o	659cc05519e10487
+6072	6553	1653616468881769177	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/sleep.cc.o	adc2b630326a08c1
+885	4850	1653616467173837121	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_register.cc.o	453db4996df304ec
+5143	6005	1653616468329791141	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/csv_reporter.cc.o	9ad505b52c9d82e4
+1633	2132	1653616464457945050	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_name.cc.o	3ecae4d736467341
+250	283	1653601815416660011	lib/libgtest_maind.a	ba7cc9ab40ad1a75
+2904	3612	1653616465937886256	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/colorprint.cc.o	a7a4a92fc91cddf4
+1779	1974	1653614225818315550	test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+3612	4400	1653616466725854932	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/commandlineflags.cc.o	458bb8445634c0a3
+2132	4242	1653616466569861134	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_runner.cc.o	e48c3e33dd90f3af
+1779	1974	1653614225818315550	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/test/lab6_TEST[1]_tests.cmake	21506b77e479c861
+5192	6072	1653616468397788435	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/json_reporter.cc.o	1b72a818806cab33
+6148	7285	1653616469609740199	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/statistics.cc.o	58d3d809563dacd1
+4400	5143	1653616467469825349	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/console_reporter.cc.o	438fc5e0863af9f4
+3	5767	1653601736255030256	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	6d4414ad8a6bce54
+8333	8358	1653616470677697673	_deps/googlebenchmark-build/src/libbenchmark_main.a	7296222622341e6c
+16	2903	1653616465229914387	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark.cc.o	1e66a513fe7ce591
+1	250	1653601815372666293	lib/libgtestd.a	c853b523fdb9146f
+1779	1974	1653614225818315550	test/lab6_TEST	21506b77e479c861
+1	1779	1653614225622239550	test/CMakeFiles/lab6_TEST.dir/lab_6_test.cpp.o	a7b04aad7f7bb377
+8	885	1653616463213994440	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o	8e22f07087e29df0
+5431	6148	1653616468473785411	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/perf_counters.cc.o	2c1d4e587e4b91b0
+2	1340	1653616939773820698	benchmark/CMakeFiles/lab6_substr_serch_BENCHMARK.dir/benchmark_substr_serch.cpp.o	c9532fbe6f9b9361
+6720	7730	1653616470057722365	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/sysinfo.cc.o	5dce665333ea9bd1
+1340	1653	1653616940081807217	benchmark/lab6_substr_serch_BENCHMARK	ce3c2f36d2c2d4ee
+7965	8333	1653616470501704682	_deps/googlebenchmark-build/src/libbenchmark.a	b7f30cf1ec15b257
+3	2418	1653601732911417451	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	76716a9ed3bf9d6
+6005	6720	1653616469045762650	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/reporter.cc.o	348e9a557fff7c4b
+7286	7965	1653616470293712966	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/timers.cc.o	1ae348830fe7cba9
+4242	5192	1653616467517823440	_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/complexity.cc.o	2e05d9c9d9d22332

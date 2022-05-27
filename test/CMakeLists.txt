@@ -4,17 +4,8 @@ project(lab6_TEST)
 
 set(MAIN_TEST lab_6_test.cpp lab_6_test.h)
 
-FetchContent_Declare(
-        googletest
-        GIT_REPOSITORY https://github.com/google/googletest.git
-        GIT_TAG        e2239ee6043f73722e7aa812a459f54a28552929 # release-1.10.0
-)
-
 FetchContent_MakeAvailable(googletest)
 
-set(FETCHCONTENT_UPDATES_DISCONNECTED ON)
-
-set(CMAKE_GTEST_)
 add_executable(${PROJECT_NAME} ${MAIN_TEST})
 
 set_target_properties(

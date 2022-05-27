@@ -1,0 +1,37 @@
+# ninja log v5
+13	4780	1653614449949797915	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-download	d3f0dc9d6a8377b4
+8	13	1653617104022599002	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-patch	93107dc1f163bffc
+13	16	1653617104026598826	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-configure	7483ef428281036c
+20	24	1653617104034598473	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-install	e1a8532442635427
+24	28	1653617104038598296	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-test	959d4280b5a74822
+16	20	1653617104030598649	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-build	fc75a5a1267307fd
+28	34	1653617104042598120	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/CMakeFiles/googlebenchmark-populate-complete	dc50355c700ad26e
+28	34	1653617104042598120	CMakeFiles/googlebenchmark-populate-complete	dc50355c700ad26e
+0	8	0	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-update	10f1fe76fd90f762
+24	28	1653617104038598296	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-test	959d4280b5a74822
+0	13	1653614445183481755	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-mkdir	9d6a20965eb3f7de
+8	13	1653617104022599002	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-patch	93107dc1f163bffc
+13	4780	1653614449949797915	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-download	d3f0dc9d6a8377b4
+0	8	0	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-update	10f1fe76fd90f762
+28	34	1653617104042598120	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-done	dc50355c700ad26e
+20	24	1653617104034598473	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-install	e1a8532442635427
+28	34	1653617104042598120	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-done	dc50355c700ad26e
+16	20	1653617104030598649	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-build	fc75a5a1267307fd
+0	13	1653614445183481755	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-mkdir	9d6a20965eb3f7de
+13	16	1653617104026598826	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-configure	7483ef428281036c
+0	9	0	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-update	10f1fe76fd90f762
+0	9	0	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-update	10f1fe76fd90f762
+9	12	1653617109778344996	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-patch	93107dc1f163bffc
+9	12	1653617109778344996	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-patch	93107dc1f163bffc
+12	16	1653617109782344820	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-configure	7483ef428281036c
+12	16	1653617109782344820	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-configure	7483ef428281036c
+16	21	1653617109786344643	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-build	fc75a5a1267307fd
+16	21	1653617109786344643	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-build	fc75a5a1267307fd
+21	25	1653617109790344467	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-install	e1a8532442635427
+21	25	1653617109790344467	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-install	e1a8532442635427
+25	28	1653617109794344291	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-test	959d4280b5a74822
+25	28	1653617109794344291	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-test	959d4280b5a74822
+28	35	1653617109802343938	CMakeFiles/googlebenchmark-populate-complete	dc50355c700ad26e
+28	35	1653617109802343938	googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-done	dc50355c700ad26e
+28	35	1653617109802343938	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/CMakeFiles/googlebenchmark-populate-complete	dc50355c700ad26e
+28	35	1653617109802343938	/home/kirill_kazarin/Рабочий стол/cpp.labs/lab_6/cmake-build-debug/_deps/googlebenchmark-subbuild/googlebenchmark-populate-prefix/src/googlebenchmark-populate-stamp/googlebenchmark-populate-done	dc50355c700ad26e
